@@ -1,0 +1,3 @@
+un vector de características se trata de la representación vectorial de aquellas características que queremos que la máquina tenga en cuenta para su entrenamiento.
+
+Según lo que queremos predecir serán necesarias más o menos características. Cuanto más compleja la tarea (por ejemplo, hacer predicciones sobre enfermedades crónicas en función de 15 datos sobre la vida de una persona), más compleja será la estructura de la [[red neuronal]].

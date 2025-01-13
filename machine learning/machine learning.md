@@ -1,0 +1,2 @@
+las máquinas no aprenden al uso, sino que descubren una fórmula matemática que lleva desde los inputs hasta los outputs. Una vez la ha conseguido (o se aproxima lo suficiente), decimos que ha aprendido cuando el error entre lo que predice y la realidad del conjunto de prueba es suficientemente pequeño.
+En ese momento podremos introducirle un nuevo [[vector de características]] que nunca haya visto para que produzca una predicción.

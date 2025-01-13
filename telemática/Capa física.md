@@ -1,0 +1,1 @@
+La capa física es la primera de las capas del modelo OSI de transmisión. Marca la conexión física entre dos [[hosts]]

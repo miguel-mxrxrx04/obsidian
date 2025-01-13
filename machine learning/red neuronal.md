@@ -1,0 +1,1 @@
+una red neuronal se puede representar como un digrafo con pesos y sesgos, llamados [[parámetros]]
