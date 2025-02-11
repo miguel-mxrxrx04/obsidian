@@ -1,1 +1,1 @@
-una red neuronal se puede representar como un digrafo con pesos y sesgos, llamados [[parámetros]]
+una red neuronal se puede representar como un grafo dirigido con pesos y sesgos, llamados [[parámetros]]
